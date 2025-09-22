@@ -1,2 +1,2 @@
-this is branch 2 now
+conflicts between branch1 and branch2 are resolved
 
