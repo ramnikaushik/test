@@ -1,2 +1,2 @@
-this is to test merge conflicts in class
-changes done through branch1
+conflicts between branch1 and branch2 are resolved
+
